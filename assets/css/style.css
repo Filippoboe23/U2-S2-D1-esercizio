@@ -1,0 +1,30 @@
+.custom-column {
+  background-color: blue;
+  color: white;
+  padding: 3rem;
+  text-align: center;
+}
+.custom-column2 {
+  background-color: yellow;
+  color: black;
+  padding: 1rem;
+  border: 1px solid black;
+  text-align: center;
+}
+.custom-column3 {
+  background-color: green;
+  color: white;
+  padding: 1rem;
+  border: 1px solid black;
+  text-align: center;
+}
+.custom-grid {
+  margin-bottom: 2rem;
+}
+.custom-column4 {
+  background-color: red;
+  color: white;
+  padding: 1rem;
+  border: 1px solid black;
+  text-align: center;
+}
